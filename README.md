@@ -1,3 +1,40 @@
+# 🌦️ ClimaApp
+
+Aplicación web creada con **React + Vite** que permite consultar el clima actual en cualquier lugar del mundo mediante una API pública de datos meteorológicos (como OpenWeatherMap).
+
+---
+
+## 🧰 Tecnologías utilizadas
+
+- ⚛️ React
+- ⚡ Vite
+- 🌐 API REST (OpenWeatherMap)
+-  CSS personalizado
+-  -JS 
+- 🌍 Fetch API para solicitudes HTTP
+
+---
+
+## 📸 Captura de pantalla
+
+---
+
+## ✨ Funcionalidades
+
+- 🔍 Buscar el clima por nombre de ciudad o país
+- 🌡️ Mostrar temperatura, humedad, velocidad del viento y descripción general del clima
+- 📍 Consulta en tiempo real
+- 🎨 Interfaz moderna y responsiva
+
+---
+
+## ⚙️ Instalación y uso local
+
+1. **Clona el repositorio:**
+
+```bash
+git clone https://github.com/yessetkr21/Weather-app-React-Vite.git
+cd ClimaApp
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -10,3 +47,4 @@ Currently, two official plugins are available:
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
