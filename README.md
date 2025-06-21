@@ -1,6 +1,6 @@
 # 🌦️ ClimaApp
 
-Aplicación web creada con **React + Vite** que permite consultar el clima actual en cualquier lugar del mundo mediante una API pública de datos meteorológicos (como OpenWeatherMap).
+Aplicación web creada con **React + Vite+ GSAP** que permite consultar el clima actual en cualquier lugar del mundo mediante una API pública de datos meteorológicos (como OpenWeatherMap).
 
 ---
 
@@ -9,8 +9,9 @@ Aplicación web creada con **React + Vite** que permite consultar el clima actua
 - ⚛️ React
 - ⚡ Vite
 - 🌐 API REST (OpenWeatherMap)
+-  GSAP
 -  CSS personalizado
--  -JS 
+-  JS 
 - 🌍 Fetch API para solicitudes HTTP
 
 ---
