@@ -16,7 +16,7 @@ Aplicación web creada con **React + Vite** que permite consultar el clima actua
 ---
 
 ## 📸 Captura de pantalla
-
+![fff](https://github.com/user-attachments/assets/6a96f67c-d65c-4ee6-8e7d-aa9c85e17057)
 ---
 
 ## ✨ Funcionalidades
